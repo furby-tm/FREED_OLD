@@ -1,6 +1,6 @@
-# vueapp
+# freed.
 
-> A Vue.js project
+> The world's most advanced social network. Made possible by machine learning and artifical intelligence.
 
 ## Build Setup
 
@@ -18,4 +18,4 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Owned under Revolt Inc., made possible by Tyler Furby and Shashwat Pyakuryal
