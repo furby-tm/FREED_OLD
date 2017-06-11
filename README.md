@@ -19,6 +19,6 @@ npm run build --report
 ```
 ---
 
-######Revolt Inc. All Rights Reserved.
+###### Revolt Inc. All Rights Reserved.
 
-######Made possible by the brilliant minds of Tyler Furby and Shashwat Pyakuryal.
+###### Made possible by the brilliant minds of Tyler Furby and Shashwat Pyakuryal.
