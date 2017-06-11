@@ -17,7 +17,8 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+---
 
->freed. is a branch of Revolt Inc.
+Revolt Inc. All Rights Reserved.
 
-made possible by Tyler Furby and Shashwat Pyakuryal
+Made possible by the brilliant minds of Tyler Furby and Shashwat Pyakuryal.
