@@ -18,4 +18,6 @@ npm run build
 npm run build --report
 ```
 
-Owned under Revolt Inc., made possible by Tyler Furby and Shashwat Pyakuryal
+>freed. is a branch of Revolt Inc.
+
+made possible by Tyler Furby and Shashwat Pyakuryal
