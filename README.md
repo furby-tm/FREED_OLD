@@ -1,6 +1,6 @@
 # freed.
 
-> The world's most advanced social network. Made possible by machine learning and artifical intelligence.
+> The world's most advanced social network. Made possible by machine learning and artificial intelligence.
 
 
 > Status: Development (pre-alpha)
