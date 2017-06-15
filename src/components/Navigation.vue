@@ -21,18 +21,16 @@ export default {
 
 <style scoped>
   #nav-main {
-    margin-left: 68%;
     background-color: black;
   }
   a {
     font-weight: bold;
     text-decoration: none;
     color: white;
-    width: 30px;
-    height: 10px;
-    font-size: 30px;
-    margin-right: 10px;
-    margin-left: 10px;
+    height: 10vh;
+    font-size: 5vh;
+    margin-left: 10%;
+    margin-right: 10%;
   }
   a:hover {
     background-color: #C70039;
