@@ -1,7 +1,6 @@
 <template>
-  <div id="app">
+  <div id="app" @touchmove.prevent>
     <ActionBar></ActionBar>
-    <Navigation></Navigation>
     <router-view></router-view>
     <router-view name="NewsFeedLoad"></router-view>
     <router-view name="NewsFeedLoad"></router-view>
@@ -32,5 +31,7 @@ export default {
 body, html {
   background-color: #E7E7E7;
   display: flex;
+  margin: 0px;
+  padding: 0px;
 }
 </style>

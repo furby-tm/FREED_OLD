@@ -26,7 +26,6 @@ export default {
   width: 50%;
   height: 260px;
   line-height: 80px;
-  margin-top: 1%;
   background-color: white;
   padding: 30px;
   margin-bottom: 1%;

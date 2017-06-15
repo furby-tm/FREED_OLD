@@ -1,6 +1,6 @@
 <template>
   <div id="nav-main">
-    <router-link to="/"><a v-bind:class="{ active: isActive }">Home</a></router-link>
+    <router-link to="/"><a>Home</a></router-link>
     <router-link to="/profile"><a>Profile</a></router-link>
     <router-link to="/discover"><a>Discover</a></router-link>
     <router-link to="/news"><a>News</a></router-link>
@@ -22,6 +22,7 @@ export default {
 <style scoped>
   #nav-main {
     background-color: black;
+    margin-top: 17vh;
   }
   a {
     font-weight: bold;
