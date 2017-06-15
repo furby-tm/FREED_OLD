@@ -39,7 +39,7 @@ export default {
 <style scoped>
 .main {
   width: 100vw;
-  height: 200px;
+  height: 15vh;
   background-color: #C70039;
   margin-top: -150px;
   margin-left: -8px;
