@@ -21,6 +21,12 @@ const routes = [
     components: {
       default: About
     }
+  },
+  {
+    path: '/profile',
+    components: {
+      default: Profile
+    }
   }
   ];
 
