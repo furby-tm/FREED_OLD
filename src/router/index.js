@@ -5,6 +5,7 @@ import Profile from '@/components/Profile'
 import NewsFeedLoad from '@/components/NewsFeedLoad'
 import MakeNewStatus from '@/components/MakeNewStatus'
 import About from '@/components/About'
+import News from '@/components/News'
 
 Vue.use(Router)
 
@@ -27,7 +28,13 @@ const routes = [
     components: {
       default: Profile
     }
-  }
+  },
+  {
+   path: '/news',
+   components: {
+     default: News
+   }
+ }
   ];
 
 const router = new Router({
