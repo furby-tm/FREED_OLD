@@ -4,6 +4,7 @@ import ActionBar from '@/components/ActionBar'
 import Profile from '@/components/Profile'
 import NewsFeedLoad from '@/components/NewsFeedLoad'
 import MakeNewStatus from '@/components/MakeNewStatus'
+import About from '@/components/About'
 
 Vue.use(Router)
 
@@ -14,7 +15,13 @@ const routes = [
       default: MakeNewStatus,
       NewsFeedLoad: NewsFeedLoad
   }
-}
+},
+  {
+    path: '/about',
+    components: {
+      default: About
+    }
+  }
   ];
 
 const router = new Router({
