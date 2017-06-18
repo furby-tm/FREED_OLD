@@ -6,6 +6,7 @@ import NewsFeedLoad from '@/components/NewsFeedLoad'
 import MakeNewStatus from '@/components/MakeNewStatus'
 import About from '@/components/About'
 import News from '@/components/News'
+import Music from '@/components/Music'
 
 Vue.use(Router)
 
@@ -33,6 +34,12 @@ const routes = [
    path: '/news',
    components: {
      default: News
+   }
+ },
+ {
+   path: '/music',
+   components: {
+     default: Music
    }
  }
   ];
